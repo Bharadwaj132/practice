@@ -4,6 +4,7 @@ x = 0
 y = 1
 print(x)
 print(y)
+
 for i in range(enter - 2):
 	z = x+y
 	x = y
